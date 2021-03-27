@@ -3,6 +3,8 @@ by Xiurong Jiang, Lin Zhu, Hui Tian
 
 ## Introduction
 ![framework](./fig/framework.png)   The pipeline of the proposed approach.
+![motivation](./fig/motivation.png) 
+![label](./fig/label.png) 
 
 ## Prerequisites
 - [Python 3.5](https://www.python.org/)
@@ -23,11 +25,13 @@ Download the following datasets and unzip them into `data` folder
 - [DV](https://drive.google.com/drive/folders/14Tp9r_3wtR2GchHUWZHYV8SuEjkAxmiT?usp=sharing)
 
 
+
+
 ## Saliency maps & Trained model
 - saliency maps: [Google](https://drive.google.com/drive/folders/1pShDP81zv-sSrgW9Jmfa5jrr0iLpdJLB?usp=sharing)
 - trained model: [Google](https://drive.google.com/drive/folders/1oyVzw0mwSLVEXydtEQLAB5DvEu84gbHV?usp=sharing)
 - Quantitative comparisons 
-![performace](./fig/table.png)
+![performace](./fig/quantitative.png)
 
 - Qualitative comparisons 
-![sample](./fig/case.png)
+![sample](./fig/qualitative.png)
