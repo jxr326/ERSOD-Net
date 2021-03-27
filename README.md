@@ -20,12 +20,12 @@ Download the following datasets and unzip them into `data` folder
 - [ECSSD](http://www.cse.cuhk.edu.hk/leojia/projects/hsaliency/dataset.html)
 - [HKU-IS](https://i.cs.hku.hk/~gbli/deep_saliency.html)
 - [PASCAL-S](http://cbi.gatech.edu/salobj/)
-- [DV](https://drive.google.com/drive/my-drive)
+- [DV](https://drive.google.com/drive/folders/14Tp9r_3wtR2GchHUWZHYV8SuEjkAxmiT?usp=sharing)
 
 
 ## Saliency maps & Trained model
-- saliency maps: [Google](https://drive.google.com/drive/my-drive)
-- trained model: [Google](https://drive.google.com/drive/my-drive)
+- saliency maps: [Google](https://drive.google.com/drive/folders/1pShDP81zv-sSrgW9Jmfa5jrr0iLpdJLB?usp=sharing)
+- trained model: [Google](https://drive.google.com/drive/folders/1oyVzw0mwSLVEXydtEQLAB5DvEu84gbHV?usp=sharing)
 - Quantitative comparisons 
 ![performace](./fig/table.png)
 
