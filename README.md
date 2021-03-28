@@ -1,4 +1,4 @@
-## [Learning-Event-Guided-Network-for-Salient-ObjectDetection]
+## [Learning Event Guided Network for Salient Object Detection]
 by Xiurong Jiang, Lin Zhu, Hui Tian
 
 ## Introduction
