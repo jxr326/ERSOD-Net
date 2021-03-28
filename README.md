@@ -12,7 +12,6 @@ by Xiurong Jiang, Lin Zhu, Hui Tian
 - [OpenCV 4.0](https://opencv.org/)
 - [Numpy 1.15](https://numpy.org/)
 - [TensorboardX](https://github.com/lanpa/tensorboardX)
-- [Apex](https://github.com/NVIDIA/apex)
 
 ## Download dataset
 Download the following datasets and unzip them into `data` folder
