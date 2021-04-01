@@ -4,6 +4,7 @@ by Xiurong Jiang, Lin Zhu, Hui Tian
 ## Introduction
 ![framework](./fig/framework.png)   The pipeline of the proposed approach.
 ![motivation](./fig/motivation.png) 
+![label](./fig/label.png) 
 
 
 ## Prerequisites
