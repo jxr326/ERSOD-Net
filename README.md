@@ -1,7 +1,7 @@
 ## [Learning Event Guided Network for Salient Object Detection]
 by Xiurong Jiang, Lin Zhu, Hui Tian
 
-## Introduction
+## Framework
 ![framework](./fig/framework.png)   The pipeline of the proposed approach.
 ## Motivation
 ![motivation](./fig/motivation.png) 
