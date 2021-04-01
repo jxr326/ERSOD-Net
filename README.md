@@ -24,7 +24,7 @@ Download the following datasets and unzip them into `data` folder
 - [ECSSD](http://www.cse.cuhk.edu.hk/leojia/projects/hsaliency/dataset.html)
 - [HKU-IS](https://i.cs.hku.hk/~gbli/deep_saliency.html)
 - [PASCAL-S](http://cbi.gatech.edu/salobj/)
-- [DV](https://drive.google.com/drive/folders/14Tp9r_3wtR2GchHUWZHYV8SuEjkAxmiT?usp=sharing)
+- [ERSOD](https://drive.google.com/drive/folders/14Tp9r_3wtR2GchHUWZHYV8SuEjkAxmiT?usp=sharing)
 
 
 
@@ -32,10 +32,11 @@ Download the following datasets and unzip them into `data` folder
 ## Saliency maps & Trained model
 - saliency maps: [Google](https://drive.google.com/drive/folders/1pShDP81zv-sSrgW9Jmfa5jrr0iLpdJLB?usp=sharing)
 - trained model: [Google](https://drive.google.com/drive/folders/1oyVzw0mwSLVEXydtEQLAB5DvEu84gbHV?usp=sharing)
-- Quantitative comparisons 
+- Quantitative comparisons on five SOD datasets
 ![performace](./fig/quantitative.png)
 
 
-- Qualitative comparisons 
+- Qualitative comparisons with state-of-the-arts methods
 ![sample](./fig/exp1.png)
+- Qualitative comparisons on real Event-RGB SOD dataset
 ![sample](./fig/exp2.png)
