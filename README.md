@@ -5,8 +5,7 @@ by Xiurong Jiang, Lin Zhu, Hui Tian
 ![framework](./fig/framework.png)   The pipeline of the proposed approach.
 ## Motivation
 ![motivation](./fig/motivation.png) 
-## Label
-![label](./fig/label.png) 
+
 
 
 ## Prerequisites
@@ -32,6 +31,8 @@ Download the following datasets and unzip them into `data` folder
 ## Saliency maps & Trained model
 - saliency maps: [Google](https://drive.google.com/drive/folders/1pShDP81zv-sSrgW9Jmfa5jrr0iLpdJLB?usp=sharing)
 - trained model: [Google](https://drive.google.com/drive/folders/1oyVzw0mwSLVEXydtEQLAB5DvEu84gbHV?usp=sharing)
+- The simulated event data and label
+![label](./fig/label.png) 
 - Quantitative comparisons on five SOD datasets
 ![performace](./fig/quantitative.png)
 
