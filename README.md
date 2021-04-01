@@ -4,7 +4,7 @@ by Xiurong Jiang, Lin Zhu, Hui Tian
 ## Framework
 ![framework](./fig/framework.png)   The pipeline of the proposed approach.
 ## Motivation
-![motivation](./fig/motivation.png) 
+![motivation](./fig/motivation.png)   The motivation and visual results of our method.
 
 
 
