@@ -35,5 +35,7 @@ Download the following datasets and unzip them into `data` folder
 - Quantitative comparisons 
 ![performace](./fig/quantitative.png)
 
+
 - Qualitative comparisons 
-![sample](./fig/qualitative.png)
+![sample](./fig/exp1.png)
+![sample](./fig/exp2.png)
