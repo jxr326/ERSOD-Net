@@ -1,4 +1,4 @@
-## [Learning Event Guided Network for Salient Object Detection]
+## [ERSOD-Net]
 by Xiurong Jiang, Lin Zhu, Hui Tian
 
 ## Framework
