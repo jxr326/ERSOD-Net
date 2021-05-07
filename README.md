@@ -8,8 +8,7 @@ by Xiurong Jiang, Lin Zhu, Hui Tian
 ![framework](./fig/framework.png)   The pipeline of the proposed approach.
 
 ## LSTM-based module
-![LSTM](./fig/lstm.png)
-Overview of LSTM-based module.
+![LSTM](./fig/lstm.png)   Overview of LSTM-based module.
 
 
 ## Prerequisites
